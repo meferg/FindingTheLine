@@ -2,3 +2,5 @@ name: Finding The Line
 markdown: kramdown
 
 theme: jekyll-theme-architect
+
+permalink: /blog/:year/:month/:day/:title
