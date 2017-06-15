@@ -3,4 +3,4 @@ markdown: kramdown
 
 theme: jekyll-theme-architect
 
-permalink: {{ site.github.url }}/blog/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title
